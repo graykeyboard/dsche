@@ -1,2 +1,2 @@
 # dsche
-sechduel date process
+schedule date process
